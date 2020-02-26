@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dev_yanal/static/css/main.16efeed4.chunk.css",
+    "main.js": "/dev_yanal/static/js/main.be1f51c8.chunk.js",
+    "main.js.map": "/dev_yanal/static/js/main.be1f51c8.chunk.js.map",
+    "runtime-main.js": "/dev_yanal/static/js/runtime-main.2b583ef2.js",
+    "runtime-main.js.map": "/dev_yanal/static/js/runtime-main.2b583ef2.js.map",
+    "static/js/2.c2cdada5.chunk.js": "/dev_yanal/static/js/2.c2cdada5.chunk.js",
+    "static/js/2.c2cdada5.chunk.js.map": "/dev_yanal/static/js/2.c2cdada5.chunk.js.map",
+    "index.html": "/dev_yanal/index.html",
+    "precache-manifest.44a097e8f0ae4b7dbd8564c421883a59.js": "/dev_yanal/precache-manifest.44a097e8f0ae4b7dbd8564c421883a59.js",
+    "service-worker.js": "/dev_yanal/service-worker.js",
+    "static/css/main.16efeed4.chunk.css.map": "/dev_yanal/static/css/main.16efeed4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b583ef2.js",
+    "static/js/2.c2cdada5.chunk.js",
+    "static/css/main.16efeed4.chunk.css",
+    "static/js/main.be1f51c8.chunk.js"
+  ]
+}
